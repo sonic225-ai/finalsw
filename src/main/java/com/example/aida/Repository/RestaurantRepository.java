@@ -1,6 +1,6 @@
-package Repository;
+package com.example.aida.Repository;
 
-import entity.RestaurantEntity;
+import com.example.aida.entity.RestaurantEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

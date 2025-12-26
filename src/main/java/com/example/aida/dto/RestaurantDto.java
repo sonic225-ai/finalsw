@@ -1,4 +1,4 @@
-package dto;
+package com.example.aida.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

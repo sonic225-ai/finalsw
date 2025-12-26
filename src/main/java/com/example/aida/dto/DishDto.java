@@ -1,16 +1,15 @@
-package dto;
+package com.example.aida.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import java.util.List;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class OrderDto {
+public class DishDto {
     private long id;
-    private String customerName;
-    private double totalPrice;
-    private List<Long> dishIds;
+    private String name;
+    private double price;
+    private long restaurantId;
 }

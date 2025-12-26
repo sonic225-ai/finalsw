@@ -1,6 +1,6 @@
-package Repository;
+package com.example.aida.Repository;
 
-import entity.OrderEntity;
+import com.example.aida.entity.OrderEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

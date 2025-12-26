@@ -1,4 +1,4 @@
-package entity;
+package com.example.aida.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
